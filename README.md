@@ -213,7 +213,3 @@ service nginx restart
 
 
 ---
-
-## Authors
-
-* **José Lugo** - *Initial work* - [ChepeTime](https://github.com/ChepeTime)
